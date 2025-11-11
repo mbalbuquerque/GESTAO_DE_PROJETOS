@@ -1,4 +1,4 @@
-# GESTAO-DE-PROJETOS
+# GESTAO_DE_PROJETOS
 ## Atividades realizadas na Disciplina Gestão de Projetos
 ### Projeto Integrador Gestão de Resíduos Sólidos
 
